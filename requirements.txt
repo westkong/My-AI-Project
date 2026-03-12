@@ -1,0 +1,4 @@
+streamlit = 얼굴과 화면 역할
+tensorflow = 두뇌와 지능 역할
+pillow = 눈과 시력 역할
+numpy = 통역사와 계산기 역할
