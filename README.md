@@ -6,6 +6,6 @@
 - Library: Streamlit, TensorFlow
 - Deployment: GitHub
 
-# 주요 기능
+#주요 기능
 - 이미지 분류 (Image Classification): 사용자가 올린 사진이 무엇인지 AI 모델(MobileNetV2)이 분석합니다.
 - 실시간 결과 출력: 분석된 결과와 확률을 웹 화면에 즉시 보여줍니다.
