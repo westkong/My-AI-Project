@@ -1,2 +1,5 @@
 streamlit
-tensorflow-cpu
+pillow
+numpy
+scipy
+scikit-image
